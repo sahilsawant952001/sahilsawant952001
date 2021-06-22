@@ -1,7 +1,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello There My Name Is Sahil Sawant!
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=sahilsawant952001&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/sahilsawant952001=follow&style=social)](https://github.com/sahilsawant952001)&nbsp;
+[![GitHub sahilsawant952001](https://img.shields.io/github/followers/sahilsawant952001=follow&style=social)](https://github.com/sahilsawant952001)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
