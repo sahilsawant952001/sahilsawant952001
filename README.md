@@ -8,7 +8,6 @@
 🎓 &nbsp;I'm currently studying Information Technology Engineering at Sardar Patel Institute of Technology, Nagpur (2019-2023).\
 🌱 &nbsp;I'm on track for learning more about Computer Fundamentals, Web Development, Machine Learning, and Computer Vision.\
 ✍️ &nbsp;In my free time, I read newspaper, play cricket and football.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at sahilsawant224@gmail.com I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1AFjNgIOiEQkWGXUJOlgLuSS3jBHBj07J/view?usp=sharing) for more details about work experience.
 
